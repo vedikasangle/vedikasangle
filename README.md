@@ -1,7 +1,7 @@
 [![MasterHead](https://dribbble.com/shots/16129138-Learn-Code-Illustration-3)](https://vedikasangle.github.io)
 <h1 align="center">Hi 👋, I'm Vedika</h1>
 <h3 align="center">A passionate programmer from Pune, India!</h3>
-(img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/4319528-Women-in-Tech")
+<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/4319528-Women-in-Tech">
 
 
 
