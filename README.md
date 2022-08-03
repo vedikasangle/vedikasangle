@@ -10,6 +10,6 @@
 
 - 🤝 I’m interested in **Building projects in C++**
 
-- 💬 Ask me about **Frontend Development, Blockchain Basics,**
+- 💬 Ask me about **Frontend Development, Blockchain Basics**
 
 - 📫 How to reach me **vedikasangle@gmail.com**
