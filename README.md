@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/sangle_vedika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/sangle_vedika" height="30" width="40" /></a>
+<a href="https://twitter.com/Sangle_Vedika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/Sangle_Vedika" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/vedika-sangle-43a43b208/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vedika-sangle-43a43b208/" height="30" width="40" /></a>
 </p>
 
