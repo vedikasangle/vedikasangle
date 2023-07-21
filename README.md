@@ -1,6 +1,9 @@
+
 <h1 align="center">Hey 👋, I'm Vedika</h1>
 <h3 align="center">An Engineering Undergrad who loves to Code ✨👩‍💻</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+
+<p align = "center" href="#"><img width="50%" height="auto" src="https://github.com/vedikasangle/vedikasangle/assets/87116375/77080186-09ed-4eb6-ae12-01e6c566ba08" height="175px"/></p>
+
 
 - 👩‍💻I’m currently working on **Development and Problem Solving Skills**
 
