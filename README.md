@@ -7,11 +7,9 @@
 
 - 👩‍💻I’m currently working on **Development and Problem Solving Skills**
 
-- 🌱 I’m currently learning **Web and Blockchain Development**
+- 🌱 I’m currently learning **SAP**
 
 - ⭐ I’m interested in **Building Amazing Projects**
-
-- 💬 Ask me about **Frontend Development, Blockchain Basics**
 
 - 📫 How to reach me **vedikasangle@gmail.com**
 
